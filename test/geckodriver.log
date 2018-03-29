@@ -1,0 +1,184 @@
+1522274320763	geckodriver	INFO	geckodriver 0.20.0
+1522274320776	geckodriver	INFO	Listening on 127.0.0.1:54890
+1522274323833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.DVMhpmV63HVe"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522274326550	Marionette	INFO	Listening on port 54898
+1522274326952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522274330254	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522274330912	Marionette	INFO	Ceased listening
+1522274331252	geckodriver::marionette	ERROR	Failed to stop browser process
+1522274586583	geckodriver	INFO	geckodriver 0.20.0
+1522274586593	geckodriver	INFO	Listening on 127.0.0.1:54947
+1522274589626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.aIaxzMY2d86F"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522274592319	Marionette	INFO	Listening on port 54955
+1522274592774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522274595904	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522274596524	Marionette	INFO	Ceased listening
+1522274596786	geckodriver::marionette	ERROR	Failed to stop browser process
+1522275115961	geckodriver	INFO	geckodriver 0.20.0
+1522275115973	geckodriver	INFO	Listening on 127.0.0.1:55009
+1522275119040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.ebg0RDqWpdL1"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522275121517	Marionette	INFO	Listening on port 55017
+1522275122174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522275125302	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522275126071	Marionette	INFO	Ceased listening
+1522275126402	geckodriver::marionette	ERROR	Failed to stop browser process
+1522275243969	geckodriver	INFO	geckodriver 0.20.0
+1522275243984	geckodriver	INFO	Listening on 127.0.0.1:55064
+1522275247020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.65lyw36EtX7P"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522275249582	Marionette	INFO	Listening on port 55072
+1522275250158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522275253398	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522275254028	Marionette	INFO	Ceased listening
+1522275254285	geckodriver::marionette	ERROR	Failed to stop browser process
+1522275323694	geckodriver	INFO	geckodriver 0.20.0
+1522275323705	geckodriver	INFO	Listening on 127.0.0.1:55116
+1522275326755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.pVGw4wl2JkBj"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522275329243	Marionette	INFO	Listening on port 55124
+1522275329901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522275349552	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522275350193	Marionette	INFO	Ceased listening
+1522275350475	geckodriver::marionette	ERROR	Failed to stop browser process
+1522276465788	geckodriver	INFO	geckodriver 0.20.0
+1522276465811	geckodriver	INFO	Listening on 127.0.0.1:55395
+1522276468847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.KrmWU2a0NQsU"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522276471792	Marionette	INFO	Listening on port 55403
+1522276471993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522276500523	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522276501426	Marionette	INFO	Ceased listening
+1522276501752	geckodriver::marionette	ERROR	Failed to stop browser process
+1522276627380	geckodriver	INFO	geckodriver 0.20.0
+1522276627391	geckodriver	INFO	Listening on 127.0.0.1:55501
+1522276630410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.tGkcnLp394H6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522276632975	Marionette	INFO	Listening on port 55509
+1522276633553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522276648906	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522276649679	Marionette	INFO	Ceased listening
+1522276649984	geckodriver::marionette	ERROR	Failed to stop browser process
+1522276674150	geckodriver	INFO	geckodriver 0.20.0
+1522276674162	geckodriver	INFO	Listening on 127.0.0.1:55561
+1522276677211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.8TCEQggh0USY"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522276679876	Marionette	INFO	Listening on port 55569
+1522276680332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522276700942	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522276701585	Marionette	INFO	Ceased listening
+1522276701872	geckodriver::marionette	ERROR	Failed to stop browser process
+1522276709942	geckodriver	INFO	geckodriver 0.20.0
+1522276709953	geckodriver	INFO	Listening on 127.0.0.1:55671
+1522276713003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.Qdies8GlEm7q"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522276715611	Marionette	INFO	Listening on port 55679
+1522276716155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522276735244	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522276736078	Marionette	INFO	Ceased listening
+1522276736411	geckodriver::marionette	ERROR	Failed to stop browser process
+1522279284015	geckodriver	INFO	geckodriver 0.20.0
+1522279284027	geckodriver	INFO	Listening on 127.0.0.1:56117
+1522279287077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.9YJMbsyIQOXY"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522279290026	Marionette	INFO	Listening on port 56125
+1522279290251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522279306407	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522279307156	Marionette	INFO	Ceased listening
+1522279307462	geckodriver::marionette	ERROR	Failed to stop browser process
+1522306405120	geckodriver	INFO	geckodriver 0.20.0
+1522306405131	geckodriver	INFO	Listening on 127.0.0.1:56344
+1522306408180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.wmRovPrvNHYL"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522306411337	Marionette	INFO	Listening on port 56352
+1522306411812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522306426816	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522306427484	Marionette	INFO	Ceased listening
+1522306427833	geckodriver::marionette	ERROR	Failed to stop browser process
+1522312584949	geckodriver	INFO	geckodriver 0.20.0
+1522312584962	geckodriver	INFO	Listening on 127.0.0.1:56646
+1522312588026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.4nQcdDBExygb"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522312591610	Marionette	INFO	Listening on port 56654
+1522312591758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522312615433	Marionette	INFO	Ceased listening
+1522312615786	geckodriver::marionette	ERROR	Failed to stop browser process
+1522312619185	geckodriver	INFO	geckodriver 0.20.0
+1522312619198	geckodriver	INFO	Listening on 127.0.0.1:56752
+1522312622278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.4QSy6LsRaUCQ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522312625372	Marionette	INFO	Listening on port 56760
+1522312625496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522312644175	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522312644822	Marionette	INFO	Ceased listening
+1522312645192	geckodriver::marionette	ERROR	Failed to stop browser process
+1522313403042	geckodriver	INFO	geckodriver 0.20.0
+1522313403053	geckodriver	INFO	Listening on 127.0.0.1:56958
+1522313406114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.Fzt1Z1jSLwSF"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522313409614	Marionette	INFO	Listening on port 56966
+1522313409806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522313426266	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522313426928	Marionette	INFO	Ceased listening
+1522313427291	geckodriver::marionette	ERROR	Failed to stop browser process
+1522313455849	geckodriver	INFO	geckodriver 0.20.0
+1522313455860	geckodriver	INFO	Listening on 127.0.0.1:57071
+1522313458936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.3aeeOYQP5q4h"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522313461878	Marionette	INFO	Listening on port 57079
+1522313462066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522313488853	Marionette	INFO	Ceased listening
+1522313489222	geckodriver::marionette	ERROR	Failed to stop browser process
+1522315184041	geckodriver	INFO	geckodriver 0.20.0
+1522315184064	geckodriver	INFO	Listening on 127.0.0.1:57294
+1522315187096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.q53Zysm1OZ23"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522315191630	Marionette	INFO	Listening on port 57302
+1522315192345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522315209163	Marionette	INFO	Ceased listening
+1522315210033	geckodriver::marionette	ERROR	Failed to stop browser process
+1522315213442	geckodriver	INFO	geckodriver 0.20.0
+1522315213463	geckodriver	INFO	Listening on 127.0.0.1:57372
+1522315216518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile.x7f4MVsjrNRL"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1522315220236	Marionette	INFO	Listening on port 57380
+1522315220650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522315237622	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1522315238603	Marionette	INFO	Ceased listening
+1522315238955	geckodriver::marionette	ERROR	Failed to stop browser process
